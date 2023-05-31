@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I am Ashin Laurel. I am currently pursuing a dual degree program in Computer Science Engineering And Economics Major at BITS Goa, India.I have been passionate in developing innovative and scalable dynamic cloud and web applications.I am currenly in my final year and am actively looking out for full time opportunities! 
 
-Over the last one year my friend and I have been building a CRM platform called icare from ground up for a company called Infocare. I am so proud of the progress we have made. We have succesfully sold the entire platform to the company and it is currently in beta testing. Do check out the repo: https://github.com/ashinlaurel/icare-app
+Over the last one year, my friend and I have been building a CRM platform called icare from ground up for a company called Infocare. I am so proud of the progress we have made. We have succesfully sold the entire platform to the company and it is currently in beta testing. Do check out the repo: https://github.com/ashinlaurel/icare-app
 
 
 # 💻 Tech Stack:
